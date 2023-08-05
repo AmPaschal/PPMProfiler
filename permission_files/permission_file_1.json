@@ -1,0 +1,18 @@
+{
+    "org.apache.commons": {
+        "fs": true,
+        "fs.read": true,
+        "fs.write": true,
+        "fs.allowedPaths": [],
+        "fs.deniedPaths": [],
+        "net": true,
+        "net.connect": true,
+        "net.accept": true,
+        "net.allowedUrls": [],
+        "net.deniedUrls": [],
+        "runtime": true,
+        "runtime.exec": true,
+        "runtime.allowedCommands": [],
+        "runtime.deniedCommands": []
+    }
+}

@@ -1,0 +1,5 @@
+Agent-n			start-main	start-agent	agent-setup	file-trans	main-exec	total-exec
+
+
+Running avrora:
+Agent-0			74.00		0.00		0.00		0.00		15949.67		16045.33

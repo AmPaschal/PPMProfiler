@@ -1,0 +1,7 @@
+Agent	start-main	start-agent	agent-setup	file-trans	main-exec	total-exec
+
+Running batik:no-agent	72.33	0.00	0.00	0.00	5259.00	5364.67
+no-trans-agent	432.00	83.67	344.67	0.00	5202.00	5662.67
+empty-agent	485.33	83.33	396.33	0.00	5219.33	5733.00
+file-perm-agent	479.00	85.33	389.67	22.00	5262.33	5774.33
+all-perm-agent	515.00	84.67	425.00	0.00	5334.33	5881.67

@@ -1,0 +1,3 @@
+Program				SSAv		SSMn		SSMx		UTF		UTN		UTR		FS		READ	WRITE	NET	CONNECT	ACCEPT	RUNTIME	EXECUTE
+
+avrora      			4.17		3  		6  		5  		0  		0  		6  		4  		2  		0  		0  		0  		0  		0  

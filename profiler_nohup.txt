@@ -1,0 +1,32 @@
+Running avrora (1/21)
+Running batik (2/21)
+Running biojava (3/21)
+Running cassandra (4/21)
+An error occurred 'MAIN_EXITING'
+Running eclipse (5/21)
+Running fop (6/21)
+Running graphchi (7/21)
+Running h2 (8/21)
+Running jme (9/21)
+Running jython (10/21)
+Running kafka (11/21)
+An error occurred 'MAIN_EXITING'
+Running luindex (12/21)
+Running lusearch (13/21)
+An error occurred 'MAIN_EXITING'
+Running pmd (14/21)
+An error occurred 'MAIN_EXITING'
+Running spring (15/21)
+An error occurred 'MAIN_EXITING'
+Running sunflow (16/21)
+An error occurred 'MAIN_EXITING'
+Running tomcat (17/21)
+An error occurred 'MAIN_EXITING'
+Running tradebeans (18/21)
+An error occurred 'MAIN_EXITING'
+Running tradesoap (19/21)
+An error occurred 'MAIN_EXITING'
+Running xalan (20/21)
+An error occurred 'MAIN_EXITING'
+Running zxing (21/21)
+An error occurred 'MAIN_EXITING'

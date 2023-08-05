@@ -1,0 +1,23 @@
+Program				SSAv		SSMn		SSMx		UTF		UTN		UTR		FS		READ	WRITE	NET	CONNECT	ACCEPT	RUNTIME	EXECUTE
+
+avrora      			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+batik       			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+biojava     			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+cassandra   			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+eclipse     			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+fop         			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+graphchi    			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+h2          			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+jme         			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+jython      			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+kafka       			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+luindex     			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+lusearch    			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+pmd         			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+spring      			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+sunflow     			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+tomcat      			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+tradebeans  			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+tradesoap   			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+xalan       			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+zxing       			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  

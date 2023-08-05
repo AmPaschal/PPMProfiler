@@ -1,0 +1,9 @@
+Agent-n			start-main	start-agent	agent-setup	file-trans	main-exec	total-exec
+
+
+Running avrora:
+Agent-1			430.00		88.67		339.00		0.00		12498.33		12947.67
+Agent-2			425.33		87.00		334.00		0.00		12551.00		12992.33
+Agent-0			78.00		0.00		0.00		0.00		12466.67		12562.67
+Agent-3			429.00		87.00		338.00		0.00		12736.00		13184.00
+Agent-4			474.00		94.67		375.00		0.00		13382.00		13876.00

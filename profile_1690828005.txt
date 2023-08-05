@@ -1,0 +1,19 @@
+Agent-n			start-main	start-agent	agent-setup	file-trans	main-exec	total-exec
+
+
+Running avrora:
+Agent-1			421.33		89.00		330.00		0.00		12445.33		12883.67
+Agent-2			426.33		86.33		336.00		0.00		12416.00		12863.00
+Agent-0			86.00		0.00		0.00		0.00		12618.33		12727.00
+Agent-3			441.33		91.33		345.67		0.00		12739.33		13200.00
+Agent-4			471.00		93.00		373.67		0.00		12534.00		13025.67
+
+Running batik:
+An error occurred. 'MAIN_EXITING'
+Running biojava:
+An error occurred. 'MAIN_EXITING'
+Running eclipse:
+An error occurred. 'MAIN_EXITING'
+Running fop:
+An error occurred. 'MAIN_EXITING'
+Running graphchi:

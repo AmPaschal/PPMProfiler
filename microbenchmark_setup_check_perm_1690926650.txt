@@ -1,0 +1,127 @@
+/usr/lib/jvm/java-1.17.0-openjdk-amd64/bin/java -javaagent:/opt/intellij-ue-2022.3/lib/idea_rt.jar=34585:/opt/intellij-ue-2022.3/bin -Dfile.encoding=UTF-8 -classpath /usr/local/google/home/pamusuo/Research/PermissionsMicroBenchmarks/target/classes:/usr/local/google/home/pamusuo/.m2/repository/org/openjdk/jmh/jmh-core/1.35/jmh-core-1.35.jar:/usr/local/google/home/pamusuo/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/usr/local/google/home/pamusuo/.m2/repository/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar:/usr/local/google/home/pamusuo/.m2/repository/org/openjdk/jmh/jmh-generator-annprocess/1.35/jmh-generator-annprocess-1.35.jar:/usr/local/google/home/pamusuo/.m2/repository/com/ampaschal/google/PackagePermissionsManager/1.0-SNAPSHOT/PackagePermissionsManager-1.0-SNAPSHOT.jar:/usr/local/google/home/pamusuo/.m2/repository/org/ow2/asm/asm/9.4/asm-9.4.jar:/usr/local/google/home/pamusuo/.m2/repository/org/ow2/asm/asm-util/9.4/asm-util-9.4.jar:/usr/local/google/home/pamusuo/.m2/repository/org/ow2/asm/asm-tree/9.4/asm-tree-9.4.jar:/usr/local/google/home/pamusuo/.m2/repository/org/ow2/asm/asm-analysis/9.4/asm-analysis-9.4.jar:/usr/local/google/home/pamusuo/.m2/repository/org/ow2/asm/asm-commons/9.4/asm-commons-9.4.jar:/usr/local/google/home/pamusuo/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.1/jackson-databind-2.15.1.jar:/usr/local/google/home/pamusuo/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.1/jackson-annotations-2.15.1.jar:/usr/local/google/home/pamusuo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.1/jackson-core-2.15.1.jar com.ampaschal.google.ManualBenchmarkRunner
+Discarding
+[BENCHMARK] PermissionsManagerBenchmarks.discard 78.30+-9.64us
+[BENCHMARK] PermissionsManagerBenchmarks.discard 74.33+-3.20us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_0.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 69.32+-1.26us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_1.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 76.99+-0.62us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_3.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 80.46+-1.60us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_5.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 85.35+-1.87us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_10.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 97.87+-2.00us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_15.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 107.55+-2.75us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_20.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 122.89+-0.78us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_30.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 152.05+-2.52us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_40.json
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsSetup 181.59+-1.28us
+Discarding
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.98+-0.67us
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.47+-1.03us
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.10+-0.28us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_0.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.05+-1.12us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.10+-0.31us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.68+-0.28us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.75+-0.60us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.47+-0.76us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_1.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.77+-0.18us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.10+-0.40us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 14.08+-0.34us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.87+-0.19us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.60+-0.58us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_3.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.44+-0.03us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.87+-0.10us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.88+-0.13us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.46+-0.24us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.43+-0.73us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_5.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.49+-0.27us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.75+-0.03us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.65+-0.05us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.62+-0.32us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.21+-0.21us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_10.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.46+-0.15us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.25+-0.46us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 14.27+-0.73us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.80+-0.97us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.03+-0.17us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_15.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.51+-0.22us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.51+-1.25us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.80+-0.23us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.85+-0.59us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.67+-0.35us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_20.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.57+-0.10us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.90+-0.10us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.84+-0.37us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.48+-0.12us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.18+-0.16us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_30.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 10.49+-0.14us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.20+-0.38us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.72+-0.53us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 15.52+-0.37us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.96+-0.73us
+Using /usr/local/google/home/pamusuo/Research/PPMProfiler/permission_files/permission_file_40.json
+Using 0 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 11.02+-0.61us
+Using 5 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 12.80+-0.46us
+Using 10 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 13.98+-0.46us
+Using 15 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 16.37+-1.08us
+Using 20 subjects
+[BENCHMARK] PermissionsManagerBenchmarks.measurePermissionsCheckWithSubjects 17.29+-0.25us
+
+Process finished with exit code 0

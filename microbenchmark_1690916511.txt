@@ -1,0 +1,11 @@
+Method name                                                   	no-agent          	no-trans-agent    	empty-perm-agent  	no-fr-perm-agent  	all-perm-agent    	
+
+FileBenchmarks.measureFileInputStream                         	9.52+-0.33us      	9.22+-0.09us      	9.18+-0.06us      	9.34+-0.13us      	33.80+-0.63us     	
+FileBenchmarks.measureFileOutputStream                        	17.43+-0.71us     	16.51+-0.11us     	16.72+-0.38us     	16.35+-0.27us     	33.60+-1.71us     	
+FileBenchmarks.measureFileRead                                	15.52+-0.59us     	14.57+-0.14us     	14.42+-0.09us     	14.43+-0.16us     	40.86+-0.47us     	
+FileBenchmarks.measureFileWrite                               	703.48+-11.33us   	676.85+-13.10us   	651.55+-19.36us   	676.30+-8.08us    	670.14+-2.81us    	
+SocketBenchmarks.measureSocketConnect                         	45.68+-1.96us     	44.70+-0.50us     	44.96+-1.72us     	58.81+-0.63us     	58.28+-3.03us     	
+ProcessBuilderBenchmarks.measureExec                          	1883.30+-24.30us  	1845.83+-7.58us   	1854.49+-13.98us  	1918.51+-3.01us   	1917.74+-18.21us  	
+PermissionsManagerBenchmarks.measurePermissionsSetup          	85.72+-1.88us     	83.32+-1.70us     	85.45+-1.49us     	89.06+-4.34us     	117.87+-2.88us    	
+PermissionsManagerBenchmarks.measurePermissionsCheck          	4.92+-0.57us      	4.59+-0.40us      	4.62+-0.54us      	4.71+-0.28us      	4.53+-0.04us      	
+PermissionsManagerBenchmarks.measurePermissionsCheckReflection	9.65+-0.14us      	9.66+-0.11us      	9.46+-0.08us      	9.77+-0.31us      	9.66+-0.14us      	

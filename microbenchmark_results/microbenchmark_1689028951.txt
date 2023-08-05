@@ -1,0 +1,9 @@
+Method name						Agent-0	
+FileBenchmarks.measureFileInputStream	9.55+-0.27us	
+FileBenchmarks.measureFileOutputStream	17.06+-0.16us	
+FileBenchmarks.measureFileRead	24.37+-15.29us	
+FileBenchmarks.measureFileWrite	758.16+-18.94us	
+SocketBenchmarks.measureSocketConnect	48.82+-3.20us	
+ProcessBuilderBenchmarks.measureExec	1937.70+-8.99us	
+PermissionsManagerBenchmarks.measurePermissionsCheck	3.81+-0.24us	
+PermissionsManagerBenchmarks.measurePermissionsCheckReflection	8.47+-0.84us	

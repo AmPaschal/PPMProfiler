@@ -1,0 +1,6 @@
+Program				SSAv		SSMn		SSMx		UTF		UTN		UTR		FS		READ	WRITE	NET	CONNECT	ACCEPT	RUNTIME	EXECUTE
+
+avrora      			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+batik       			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+biojava     			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  
+cassandra   			3.0		3  		3  		1  		0  		0  		1  		1  		0  		0  		0  		0  		0  		0  

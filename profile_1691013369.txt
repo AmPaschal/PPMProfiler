@@ -1,0 +1,23 @@
+Agent             			start-main	start-agent	agent-setup	file-trans	main-exec	total-exec
+
+
+Running sunflow:
+no-trans-agent    			450.33		97.67		350.00		0.00		7501.33		7977.67
+empty-perm-agent  			500.67		93.00		403.00		0.00		7889.33		8416.67
+no-agent          			82.00		0.00		0.00		0.00		7456.33		7562.00
+no-fr-perm-agent  			445.33		93.33		348.00		0.00		7467.00		7937.67
+all-perm-agent    			470.67		91.00		375.33		0.00		7646.67		8141.00
+
+Running xalan:
+no-trans-agent    			416.33		92.00		321.67		0.00		4582.67		5048.00
+empty-perm-agent  			433.67		94.33		335.33		0.00		4529.67		5018.00
+no-agent          			80.00		0.00		0.00		0.00		4775.67		4919.67
+no-fr-perm-agent  			440.00		91.33		344.67		0.00		4802.00		5307.00
+all-perm-agent    			465.33		91.67		369.33		0.00		4756.00		5300.67
+
+Running zxing:
+no-trans-agent    			431.00		92.33		336.67		0.00		5080.00		6963.33
+empty-perm-agent  			433.67		88.33		341.00		0.00		5730.67		8667.00
+no-agent          			80.00		0.00		0.00		0.00		6116.00		10431.00
+no-fr-perm-agent  			448.00		94.33		349.33		0.00		5804.33		8762.67
+all-perm-agent    			461.33		90.67		366.33		0.00		6751.67		11425.67
